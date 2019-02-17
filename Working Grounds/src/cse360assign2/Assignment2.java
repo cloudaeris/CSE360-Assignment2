@@ -1,4 +1,4 @@
-package cse360assign3;
+package cse360assign2;
 
 public class Assignment2 {
 
